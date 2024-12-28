@@ -1,0 +1,46 @@
+body {
+   background-color: rgb(14, 29, 43);
+   height: 100%;
+   color: white;
+}
+
+.temperature {
+   font-weight: bold;
+   font-size: 5rem;
+}
+
+.size {
+   font-size: 2rem;
+   font-weight: bold;
+}
+
+.today {
+   font-size: 1.5rem;
+}
+
+.card {
+   background-color: rgb(128, 128, 128);
+}
+
+.table-container {
+   width: 60%;
+   margin: auto;
+}
+
+.table-my {
+   margin-top: 70px;
+   margin-bottom: 70px;
+}
+
+.table-title {
+   font-size: 1.5rem;
+}
+
+th {
+   width: 50%;
+}
+
+footer {
+   font-size: 15px;
+   margin-bottom: 35px;
+}
